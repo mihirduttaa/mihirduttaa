@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate with anyone here
 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 - ⚡ Fun fact: I love to play football and roam around here and there without any cause xD
 
