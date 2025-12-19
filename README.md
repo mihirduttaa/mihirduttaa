@@ -16,7 +16,7 @@
 
 ## Professional Summary
 
-Results-oriented Software Engineer with 2+ years’ experience in building and modernizing backend platforms, including technical migrations and monolithic-to-microservices transformation. Proficient in Java, PHP, Spring, SQL, and Agile practices, with a track record of improving system performance and developer workflows.
+Results-oriented Software Engineer with 3+ years’ experience in building and modernizing backend platforms, including technical migrations and monolithic-to-microservices transformation. Proficient in Java, PHP, Spring, SQL, and Agile practices, with a track record of improving system performance and developer workflows.
 
 ---
 
